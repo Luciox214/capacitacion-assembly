@@ -1,0 +1,1 @@
+Estos proyectos fueron realizados como parte de la capacitación en lenguaje ensamblador de mi pasantia en América virtual. A lo largo de la formación, aprendí los fundamentos del funcionamiento interno del procesador, el uso de registros, la manipulación de memoria y el control del flujo del programa a bajo nivel.
